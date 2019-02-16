@@ -1,10 +1,9 @@
-# cmpe250-project3-EmreDemircioglu
-cmpe250-project3-EmreDemircioglu created by GitHub Classroom
+# Strongly Connected Components
 
-every .cpp file has corresponding .h file(except main.cpp).
+for project description look [project](https://github.com/EmreDemircioglu/Strongly-Connected-Components/blob/master/project3.pdf) pdf
 
-all functions and fields in .cpp file have already declared in .h file.
+## resolution
 
-all explanations and comments are in .h files and main.cpp.
-
-.cpp files contains only the implementations(except main.cpp since it does not have corresponding .h file).
+1. a graph is created according to input file
+1. SCCs turned into a single node
+1. root nodes printed into output file.
